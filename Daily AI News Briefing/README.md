@@ -24,5 +24,6 @@ and sends a digest to your inbox via Gmail.
 3. Activate the workflow
 
 ## 📸 Preview
-![Workflow](Daily AI News Briefing/workflow.png)
-![Workflow](Daily AI News Briefing/preview.png)
+![Workflow](workflow.png)
+![Preview](preview.png)
+
